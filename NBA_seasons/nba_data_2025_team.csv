@@ -1,6 +1,5 @@
  
-,,,,,,,,,,,,,,,,,,Offense Four Factors,Offense Four Factors,Offense Four Factors,Offense Four Factors,,Defense Four Factors,Defense Four Factors,Defense Four Factors,Defense Four Factors,,,,
-Rk,Team,Age,W,L,PW,PL,MOV,SOS,SRS,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,eFG%,TOV%,ORB%,FT/FGA,,eFG%,TOV%,DRB%,FT/FGA,,Arena,Attend.,Attend./G
+Rk,Team,Age,W,L,PW,PL,MOV,SOS,SRS,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,,eFG%,TOV%,ORB%,FT/FGA,,OeFG%,OTOV%,ODRB%,OFT/FGA,,Arena,Attend.,Attend./G
 1,Oklahoma City Thunder,24.7,64,14,64,14,12.53,0.09,12.61,120.0,107.5,+12.5,99.9,.220,.418,.592,,.559,10.4,24.2,.180,,.514,15.0,74.7,.210,,Paycom Center,736629,17967
 2,Cleveland Cavaliers,26.6,62,16,60,18,9.79,-0.83,8.97,122.2,112.4,+9.8,99.8,.243,.457,.610,,.580,11.6,25.7,.190,,.529,12.7,74.7,.182,,Rocket Arena,757848,19432
 3,Boston Celtics,29.0,58,20,59,19,9.26,-0.68,8.57,121.1,111.5,+9.6,95.9,.215,.536,.593,,.563,10.7,25.8,.172,,.524,11.6,76.3,.157,,TD Garden,747084,19156
